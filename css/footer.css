@@ -1,0 +1,23 @@
+.footer {
+    padding: 100px 0;
+    
+    
+    background-color: #2E2F42;
+    color: #f4f4fd;
+}
+
+
+
+
+.footer-logo {
+    display: inline-block;
+    margin-bottom: 16px;
+    color: #F4F4FD;
+}
+
+
+.footer-text {
+   color: #f4f4fd;
+   line-height: 1.5;
+   max-width: 264px;
+}
