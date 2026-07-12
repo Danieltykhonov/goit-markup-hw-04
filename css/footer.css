@@ -22,7 +22,7 @@
    max-width: 264px;
 }
 
-.footer-wrapper {
+.footer .container {
     display: flex;
     gap: 120px;
 }
@@ -67,4 +67,5 @@ margin-bottom: 16px;
 
 .footer-social-link svg {
   fill: #f4f4fd;
+  color: #f4f4fd;
 }
