@@ -63,6 +63,8 @@ list-style: none;
 
 }
 
+
+
 .social-icon .team-link{
   display: flex;
   justify-content: center;
@@ -83,7 +85,8 @@ list-style: none;
 }
 
 .social-icon svg {
-  color: #ffffff;
+  fill: #f4f4fd;
+  color: #f4f4fd;
 }
 
 

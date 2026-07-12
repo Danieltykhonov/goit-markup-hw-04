@@ -1,5 +1,8 @@
 
 .hero {  
+  max-width: 100%;
+  margin: 0 auto;
+
   padding-top: 188px;
   padding-bottom: 188px;
 
@@ -10,8 +13,10 @@
     rgba(46, 47, 66, 0.7), 
   rgba(46, 47, 66, 0.7)),  
   url(../images/hero-img.jpg) ;
-  
+
   background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .hero .container {
