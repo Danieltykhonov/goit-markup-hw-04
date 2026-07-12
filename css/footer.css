@@ -24,7 +24,11 @@
 
 .footer .container {
     display: flex;
-    gap: 120px;
+    
+}
+
+.footer-left {
+    margin-right: 120px;
 }
 
 .team-social-wraper{
@@ -65,7 +69,7 @@ margin-bottom: 16px;
   background-color: #31d0aa;
 }
 
-.footer-social-link svg {
+.footer-social-icon{
   fill: #f4f4fd;
   color: #f4f4fd;
 }
